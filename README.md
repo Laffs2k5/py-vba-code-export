@@ -1,4 +1,3 @@
-<!-- cSpell:ignore xlsm docm pptm oletools pyproject pytest OOXML venv -->
 # VBA Code Exporter
 
 A Python console application to export VBA code from macro-enabled Microsoft Office files (OOXML format: .xlsm, .docm, .pptm).
